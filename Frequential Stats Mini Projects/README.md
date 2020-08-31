@@ -1,4 +1,4 @@
-# Inferential Statistics  - Frequentist Part 
+# Inferential Statistics  - Frequentist 
 
 ## Learning objectives:
 
